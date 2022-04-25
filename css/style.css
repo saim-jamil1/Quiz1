@@ -1,0 +1,84 @@
+
+.Top_coontaoner{
+    background-color: #374457;
+    color: white;
+    padding-top: 50px;
+    
+}
+
+.heading{
+    color: #D94D45;
+}
+
+.profile_{
+    width: 10rem;
+    height: 10rem;
+    /* border:solid 2px #D94D45;
+    border-radius: 50%;
+    border-bottom-right-radius: 20%; */
+
+}
+
+.date_{
+    color: #D94D45;
+    font-style: italic;
+}
+.name_{
+    
+
+}
+
+.designation{
+    color: #D94D45;
+
+}
+
+.contact_ban{
+    background-color: #2C343F;
+    color: white;
+    height: 35px;
+}
+.Baner_comp{
+    margin: auto;
+}
+
+.banner_t{
+    text-decoration: none;
+    color: white;
+}
+
+.banner_t:hover{
+    text-decoration: none;
+    color: #D94D45;
+}
+
+
+.progres_sec{
+    margin-bottom: 3rem;
+}
+
+.progress_title{
+    margin-right: 0.3rem;
+    margin-bottom:2rem;
+
+}
+.progress-bar{
+    background-color: #2C343F;
+}
+.container{
+
+    margin-right: 4rem !important;
+    margin-left: 4rem !important;
+    
+}
+
+.Spacer{
+    margin: 1rem 0rem;
+    
+}
+
+
+
+/* Animating thedeveloper */
+
+
